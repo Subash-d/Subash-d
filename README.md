@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm Subash.<br>
 Are your reports hiding secrets? I uncover them.<br>Data Scientist | Machine learning | Python + SQL
 
 
@@ -14,7 +13,7 @@ Are your reports hiding secrets? I uncover them.<br>Data Scientist | Machine lea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-d&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subash-d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=subash-d&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=subash-d&limit=5&theme=dark&combine_all_yearly_contributions=true)
