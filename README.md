@@ -1,5 +1,6 @@
-# 💫 About Me:
-Are your reports hiding secrets? I uncover them.<br>Data Scientist | Machine learning | Python + SQL
+# 💫 About Subash:
+Subash specializes in uncovering hidden patterns and insights in your data.
+With expertise in Python, SQL, and Machine Learning, he turns raw data into insights—and builds machine learning models that actually make sense.
 
 
 ## 🌐 Socials:
@@ -15,7 +16,6 @@ Are your reports hiding secrets? I uncover them.<br>Data Scientist | Machine lea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subash-d&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subash-d&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
