@@ -3,7 +3,7 @@
        alt="Subash D" 
        width="180" 
        style="border-radius: 100%; border: 3px solid #2D4263;">
-  <h1>👋 Hi, I'm Subash D</h1>
+  <h1>👋 Hi, I'm Subash </h1>
   <h3>Data Scientist | Machine Learning | Python + SQL Enthusiast</h3>
 </div>
 
@@ -36,7 +36,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-d-c0d3r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-d-c0d3r/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duraisubash123@gmail.com)
 
 ---
