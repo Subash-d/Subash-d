@@ -7,7 +7,7 @@
   <h3>Data Scientist | Machine Learning | Python + SQL </h3>
 </div>
 
-----
+-----
 
 ### 🔍 Are your reports hiding secrets?
 
