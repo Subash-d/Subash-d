@@ -11,7 +11,7 @@
 
 ### 🔍 Are your reports hiding secrets?
 
-> I uncover patterns, predict outcomes, and make raw data talk.  
+> I uncover patterns, predict outcomes, and make raw data talk.
 > With expertise in Python, SQL, and machine learning, I build models that not only work but drive real-world decisions.
 
 ---
