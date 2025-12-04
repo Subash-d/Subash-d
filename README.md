@@ -1,4 +1,4 @@
-<link rel="stylesheet" href=".github/profile.css">
+<link rel="stylesheet" href="https://github.com/Subash-d/profile.css">
 
 <div align="center">
   <div class="avatar-container">
