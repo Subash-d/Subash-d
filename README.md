@@ -1,12 +1,14 @@
 <div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/54a80d09-3c88-4e57-8995-eb8be38bddda" 
-    alt="Subash D" 
-    width="180" 
-    height="180"
-    style="border-radius: 50%; border: 3px solid #2D4263; object-fit: cover;">
-  <h1>👋 Hi, I'm Subash </h1>
-  <h3>Data Scientist | Machine Learning | Python + SQL </h3>
+  <div style="width: 180px; height: 180px; border-radius: 50%; border: 3px solid #2D4263; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+    <img 
+      src="https://github.com/user-attachments/assets/54a80d09-3c88-4e57-8995-eb8be38bddda" 
+      alt="Subash D" 
+      width="180" 
+      height="180"
+      style="object-fit: cover; object-position: left top; transform: scale(1.1);">
+  </div>
+  <h1>👋 Hi, I'm Subash</h1>
+  <h3>Data Scientist | Machine Learning | Python + SQL</h3>
 </div>
 
 -----
