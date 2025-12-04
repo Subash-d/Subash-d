@@ -1,16 +1,19 @@
 <div align="center">
-  <table style="border-spacing:0;border-collapse:collapse;">
-    <tr>
-      <td style="border:3px solid #2D4263;border-radius:50%;overflow:hidden;width:180px;height:180px;">
-        <img 
-          src="https://github.com/user-attachments/assets/54a80d09-3c88-4e57-8995-eb8be38bddda" 
-          alt="Subash D" 
-          width="180" 
-          height="180"
-          style="display:block;object-fit:cover;object-position:70% 25%;">
-      </td>
-    </tr>
-  </table>
+  <svg width="180" height="180" style="border-radius:50%;border:3px solid #2D4263;overflow:hidden;">
+    <defs>
+      <clipPath id="circleClip">
+        <circle cx="90" cy="90" r="87"/>
+      </clipPath>
+    </defs>
+    <image 
+      href="https://github.com/user-attachments/assets/1a276a7b-9ccb-4816-b26f-4cabb2443da2" 
+      width="180" 
+      height="180"
+      clip-path="url(#circleClip)"
+      preserveAspectRatio="xMidYMid slice"
+      x="0" y="-10"/> <!-- Adjust y="-10" to move image up/down -->
+  </svg>
+  
   <h1>👋 Hi, I'm Subash</h1>
   <h3>Data Scientist | Machine Learning | Python + SQL</h3>
 </div>
