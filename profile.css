@@ -1,0 +1,19 @@
+.avatar-container {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 3px solid #2D4263;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.profile-avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 70% 25%; /* Adjust these for face positioning */
+  transform: scale(1.15);
+}
