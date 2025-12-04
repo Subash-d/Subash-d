@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/04fb6ff7-2aa3-476f-905f-b73e7405955a" 
+  <img src="https://github.com/user-attachments/assets/54a80d09-3c88-4e57-8995-eb8be38bddda" 
        alt="Subash D" 
        width="180" 
        style="border-radius: 100%; border: 3px solid #2D4263;">
