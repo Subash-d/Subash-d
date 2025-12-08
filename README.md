@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/1ed62759-34af-4b06-8736-cc7acc3e9464" 
+    src="https://github.com/user-attachments/assets/f9b06222-2028-4a3c-913d-ed8c1b3ac2cd" 
     alt="Subash D" 
     width="180" 
     height="180"
@@ -9,7 +9,6 @@
   <h1>👋 Hi, I'm Subash</h1>
   <h3>Data Scientist | Machine Learning | Python + SQL</h3>
 </div>
-
 -----
 
 ### 🔍 Are your reports hiding secrets?
