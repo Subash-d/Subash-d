@@ -5,7 +5,7 @@
     width="180" 
     height="180"
     style="border-radius:50%;border:3px solid #2D4263;">
-  
+
   <h1>👋 Hi, I'm Subash</h1>
   <h3>Data Scientist | Machine Learning | Python + SQL</h3>
 </div>
